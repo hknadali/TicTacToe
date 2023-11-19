@@ -3,10 +3,10 @@ This Python project features a simple yet engaging implementation of the classic
 
 Key Features:
 
--Two Difficulty Modes: Enjoy the game in both easy and hard modes, providing options for players of varying skill levels.
--Human vs. Computer: Challenge yourself against an AI opponent, making each game a unique and strategic experience.
--Challenging AI Logic: In hard mode, the computer follows specific conditions and strategies, enhancing the difficulty and adding an extra layer of excitement to the game.
--Testing and Validation: The project includes a set of meticulously crafted tests to ensure the correctness of the implemented game logic. These tests cover various game scenarios and conditions, guaranteeing a robust and bug-free gaming experience.
+- Two Difficulty Modes: Enjoy the game in both easy and hard modes, providing options for players of varying skill levels.
+- Human vs. Computer: Challenge yourself against an AI opponent, making each game a unique and strategic experience.
+- Challenging AI Logic: In hard mode, the computer follows specific conditions and strategies, enhancing the difficulty and adding an extra layer of excitement to the game.
+- Testing and Validation: The project includes a set of meticulously crafted tests to ensure the correctness of the implemented game logic. These tests cover various game scenarios and conditions, guaranteeing a robust and bug-free gaming experience.
 
 How to Play:
 
